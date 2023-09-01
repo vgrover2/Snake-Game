@@ -3,7 +3,7 @@
  *
  *  Created on: Sep 11, 2020
  *      Authors: Joe Krachey
- *               Spencer Sheahan
+ *               Spencer Sheahan and Vedant Grover
  */
 #include "msp.h"
 
