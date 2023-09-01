@@ -2,7 +2,7 @@
  * lightsensor.h
  *
  *  Created on: Dec 6, 2021
- *      Author: slsheahan
+ *      Author: Vedant Grover
  */
 
 #ifndef __LIGHTSENSOR_H__
