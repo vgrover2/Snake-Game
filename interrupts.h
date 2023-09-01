@@ -2,7 +2,7 @@
  * interrupts.h
  *
  *  Created on: Dec 6, 2021
- *      Author: slsheahan
+ *      Author: Vedant Grover
  */
 
 #ifndef __INTERRUPTS_H__
