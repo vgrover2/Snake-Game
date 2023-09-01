@@ -2,7 +2,7 @@
  * interrupts.c
  *
  *  Created on: Dec 6, 2021
- *      Author: slsheahan
+ *      Author: Vedant Grover
  */
 
 #include "interrupts.h"
