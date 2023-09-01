@@ -2,7 +2,7 @@
  * accelerometer.c
  *
  *  Created on: Dec 6, 2021
- *      Author: slsheahan
+ *      Author: slsheahan and Vedant Grover
  */
 #include "accelerometer.h"
 
