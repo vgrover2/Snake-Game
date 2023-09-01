@@ -2,7 +2,7 @@
  * task_gameOver.c
  *
  *  Created on: Dec 13, 2021
- *      Author: Spencer Sheahan
+ *      Author: Vedant Grover
  */
 #include "task_gameOver.h"
 
