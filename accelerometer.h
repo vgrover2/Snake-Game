@@ -2,7 +2,7 @@
  * accelerometer.h
  *
  *  Created on: Dec 6, 2021
- *      Author: slsheahan
+ *      Author: slsheahan and Vedant Grover
  */
 
 #ifndef __ACCELEROMETER_H__
