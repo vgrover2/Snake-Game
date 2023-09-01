@@ -2,7 +2,7 @@
  * lightsensor.c
  *
  *  Created on: Dec 6, 2021
- *      Author: Spencer Sheahan
+ *      Author: Spencer Sheahan and Vedant Grover
  */
 
 #include "lightsensor.h"
